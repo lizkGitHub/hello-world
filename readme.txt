@@ -3,3 +3,4 @@ Git is free software.
 new line
 the forth
 change
+change and change
